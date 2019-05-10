@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Anton Basistov',
+  title: 'Home',
   description: 'Personal Website',
   themeConfig: {
     nav: [
@@ -7,5 +7,8 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Config Page', link: '/config' },
     ]
-  }
+  },
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }]
+  ]
 }
