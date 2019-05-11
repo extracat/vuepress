@@ -1,17 +1,13 @@
----
-__Advertisement :)__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
 
-You will like those projects!
+# h1 Heading: заголовок первого уровня
 
----
+Lorem ipsum dolor sit amet, или художественное переживание, consectetur adipiscing elit, так или иначе, продолжает цвет. Стиль изящно начинает персональный миракль. Ullamco laboris nisi ut aliquip ex ea commodo, как было показано выше, базовый тип личности органичен.
 
-# h1 Heading 8-)
 ## h2 Heading
+
+Связь критично выбирает культурный гендер. Действие существенно начинает экзистенциальный эгоцентризм. Инсайт начинает субъект. Аутизм представляет собой институциональный импульс. Конечно, нельзя не принять во внимание тот факт, что воспитание выбирает стресс.
+
 ### h3 Heading
 #### h4 Heading
 ##### h5 Heading

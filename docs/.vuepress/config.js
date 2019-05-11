@@ -5,10 +5,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Config Page', link: '/config' },
+      
     ]
-  },
-  head: [
-    ['link', { rel: 'icon', href: '/logo.png' }]
-  ]
+  }
 }
+

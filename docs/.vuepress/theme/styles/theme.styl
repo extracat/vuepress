@@ -6,15 +6,40 @@
 @require './wrapper'
 @require './toc'
 
+@font-face {
+  font-family: N1tt1;
+  src: url('./fonts/N1tt1-Light.eot');
+  src: url('./fonts/N1tt1-Light.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/N1tt1-Light.woff2') format('woff2'),
+       url('./fonts/N1tt1-Light.woff') format('woff'),
+       url('./fonts/N1tt1-Light.otf')  format('truetype'),
+       url('./fonts/N1tt1-Light.svg#Nitti') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: N1tt1;
+  src: url('./fonts/N1tt1-Bold.eot');
+  src: url('./fonts/N1tt1-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/N1tt1-Bold.woff2') format('woff2'),
+       url('./fonts/N1tt1-Bold.woff') format('woff'),
+       url('./fonts/N1tt1-Bold.otf')  format('truetype'),
+       url('./fonts/N1tt1-Bold.svg#Nitti') format('svg');
+  font-weight: Bold;
+  font-style: normal;
+}
+
 html, body
   padding 0
   margin 0
 
 body
-  font-family monospace
-  -webkit-font-smoothing antialiased
-  -moz-osx-font-smoothing grayscale
-  font-size 16px
+  font-family N1tt1, Arial, monospace
+  // -webkit-font-smoothing antialiased
+  // -moz-osx-font-smoothing grayscale
+  font-size 18px
+  letter-spacing -0.05em
   color $textColor
 
 .page
