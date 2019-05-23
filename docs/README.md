@@ -1,4 +1,4 @@
-# Hello!
+# Hello
 I'm Tony, а digital creative and product designer. I make design for websites and mobile apps, create infographics and identity as well.
 
 ---
