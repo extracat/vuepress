@@ -3,6 +3,6 @@ I'm Tony, а digital creative and product designer. I make design for websites a
 
 ---
 
-Markdown themes test pages:
+## Markdown themes test pages:
 - [Lorem Ipsum №1](test1.html)
 - [Lorem Ipsum №2](test2.html)
